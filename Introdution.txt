@@ -1,0 +1,7 @@
+1)How to identify DP?
+->a)Choice given
+  b)Optimal (find max,min,largest,smallest)
+
+2)DP=Recursion + Storage
+
+3)Recursive code == Choice Diagram
