@@ -51,7 +51,7 @@ int main() {
     }
     else
     {
-        bool flag=equalpartition(a,n,sum);
+        bool flag=equalpartition(a,n,sum/2);
         if(flag)
         {
             cout<<"YES"<<endl;

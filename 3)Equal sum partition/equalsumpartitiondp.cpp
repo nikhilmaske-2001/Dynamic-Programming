@@ -59,7 +59,7 @@ int main() {
         {
             dp[0][j]=false;
         }
-        bool flag=equalsumpartition(a,n,sum);
+        bool flag=equalsumpartition(a,n,sum/2);
         if(flag)
         {
             cout<<"YES"<<endl;
