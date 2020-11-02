@@ -2,6 +2,6 @@
 ->a)Choice given
   b)Optimal (find max,min,largest,smallest)
 
-2)DP=Recursion + Storage
+2)DP=Recursion + Storage.
 
-3)Recursive code == Choice Diagram
+3)Recursive code == Choice Diagram.
