@@ -5,3 +5,7 @@
 2)DP=Recursion + Storage.
 
 3)Recursive code == Choice Diagram.
+
+1) (1-7) Knapsack
+
+2) () Unbounded knapsack
