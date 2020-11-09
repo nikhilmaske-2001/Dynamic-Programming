@@ -8,4 +8,4 @@
 
 1) (1-7) Knapsack
 
-2) () Unbounded knapsack
+2) (8-11) Unbounded knapsack
